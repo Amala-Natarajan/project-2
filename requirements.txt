@@ -1,4 +1,5 @@
-﻿fastapi
+fastapi
+uvicorn
 pandas
 fuzzywuzzy
 python-Levenshtein  # Required for fuzzywuzzy
